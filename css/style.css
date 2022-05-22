@@ -7,6 +7,13 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #161616; 
+}
+
 h1,
 h2,
 h3,
@@ -29,11 +36,7 @@ li {
 }
 
 .wrapper {
-  font-style: normal;
-  font-weight: 400;
   background-color: #F6F6F5;
-  color: #161616; 
-  font-family: 'Cormorant Garamond', serif;
 }
 
 .container {
